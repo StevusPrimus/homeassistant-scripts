@@ -1,7 +1,7 @@
 blueprint:
   name: Tag scan to open door
   description: Open the door and sent notifications when a door is opened.
-  source_url: https://github.com/home-assistant/core/blob/dev/homeassistant/components/automation/blueprints/notify_leaving_zone.yaml
+  source_url: https://github.com/StevusPrimus/homeassistant-scripts/blob/main/blueprints/tag_scan_door_open.yaml
   input:
     person_entity:
       name: Person
